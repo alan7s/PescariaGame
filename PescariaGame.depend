@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1553645762 source:/home/fls/CG/PescariaGame/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<stdio.h>
+
+1554427758 source:/home/fls/CG/novaversao/PescariaGame/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<stdio.h>
+	<time.h>
+
+1555007992 source:/media/ccc/UUI/CG/quinta/PescariaGame/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<stdio.h>
+	<time.h>
+
+1556066695 source:/home/fls/CG/novaversao/quinta2/PescariaGame/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
